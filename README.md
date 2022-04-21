@@ -1,3 +1,3 @@
 # eliezerTest
 
-Esta es la versión que usé para preguntar al profesor en la clase
+La pregunta que le hice al profesor se trata sobre el branch "probando1.5"
